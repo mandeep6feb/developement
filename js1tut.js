@@ -174,7 +174,7 @@ function findSum(arr) {
 // ...
 
 // copy 
-let newArray = [2,4,5,623,4,6,34,2,4,5,3,23]; // 12
+// let newArray = [2,4,5,623,4,6,34,2,4,5,3,23]; // 12
 
 // let copyarray = [...newArray]
 
@@ -208,11 +208,11 @@ let newArray = [2,4,5,623,4,6,34,2,4,5,3,23]; // 12
     
     // let main2 = () => console.log(this)
     // main2()
-    let newArray2 = [904,44,25,233,223];
+    // let newArray2 = [904,44,25,233,223];
     
 // function main(...data) {
-console.log(...newArray2)
-console.log(Math.max(...newArray2))
+// console.log(...newArray2)
+// console.log(Math.max(...newArray2))
 
 // }
 // main(24,565,234,234,23,42,34)
